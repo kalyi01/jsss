@@ -48,5 +48,3 @@
 //     return acc + el
 // })
 // console.log(array)
-
-
